@@ -2,7 +2,7 @@
 An Android app for controlling digital street signage in the field via Bluetooth  
 Designed and developed by Daniel Darnell  
 Written in Java  
-*The source code for this product is proprietary and cannot be made available*  
+*The source code for this product is proprietary and cannot be made public. This README only provides non-proprietary details about the product for informational purposes.*
 
 ## About
 This Android-based sign controller app allows customers to remotely control several different models of digital road signs in the field. The customer can connect to any compatible sign in the field using any Bluetooth-enabled android device.
