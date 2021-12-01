@@ -7,9 +7,9 @@ Written in Java
 ## About
 This Android-based sign controller app allows customers to remotely control several different models of digital road signs in the field. The customer can connect to any compatible sign in the field using any Bluetooth-enabled android device.
   
-The SignMaster app is written in Java, with interface graphics designed in Inkscape. Sent messages are communicated to the connected sign via an encrypted Bluetooth connection. SignMaster supports static graphics, animated graphics, multiple messages per sign, multiple sign styles (pixel array, monospaced, line spaced), different fonts, and several common default messages.
+The SignMaster app is written in Java, with UI elements designed in Inkscape. Sent messages are communicated to the connected sign via an encrypted Bluetooth connection. SignMaster supports static graphics, animated graphics, multiple messages per sign, multiple sign styles (pixel array, monospaced, line spaced), different fonts, and several common default messages.
   
-SignMaster is currently in use by hundreds of individual customers, local municipalities, state departments of transportation, and police departments. Additionally, the app UX is designed to be as intuitive as possible and requires little to no training for non-technical users.
+SignMaster is currently in use by hundreds of individual customers, local municipalities, state departments of transportation, and police departments. Additionally, SignMaster's UX is designed to be as intuitive as possible and requires little to no training for non-technical users.
 
 ## Screenshots
 *SignMaster displaying "HELLO, WORLD!" in a short font:*   
